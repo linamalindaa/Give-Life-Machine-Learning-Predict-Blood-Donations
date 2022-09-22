@@ -2,9 +2,9 @@
 Build a binary classifier to predict if a blood donor is likely to donate again.
 
 Topics
-Data Manipulation
-Machine Learning
-Importing & Cleaning Data
+1. Data Manipulation
+2. Machine Learning
+3. Importing & Cleaning Data
 
 Project Description
 "Blood is the most precious gift that anyone can give to another person — the gift of life." ~ World Health Organization
